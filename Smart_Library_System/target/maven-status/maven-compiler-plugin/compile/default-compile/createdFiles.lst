@@ -1,0 +1,6 @@
+com\libraryerp\dao\AdminDAO.class
+com\libraryerp\dao\AuthDAO.class
+com\libraryerp\Main.class
+com\libraryerp\config\DB.class
+com\libraryerp\model\Book.class
+com\libraryerp\dao\BookDAO.class
